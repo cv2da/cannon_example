@@ -1,4 +1,0 @@
-
-TRICK_CFLAGS += -I./models $(PYTHON_INCLUDES)
-TRICK_CXXFLAGS += -I./models $(PYTHON_INCLUDES)
-

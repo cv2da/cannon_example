@@ -1,1 +1,0 @@
-#include "trick/ExternalApplicationManager.hh"

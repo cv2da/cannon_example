@@ -1,1 +1,0 @@
-#include "trick/ExternalApplication.hh"

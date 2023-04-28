@@ -1,1 +1,0 @@
-#include "trick/StripChart.hh"
