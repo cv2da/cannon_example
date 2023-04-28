@@ -1,0 +1,4 @@
+build/Makefile_swig: \
+    /home/cris/Documents/cannon_example/trick_sims/SIM_cannon_analytic/S_source.hh \
+    /home/cris/Documents/cannon_example/trick_sims/SIM_cannon_analytic/models/cannon/include/cannon.h \
+    /home/cris/Documents/cannon_example/trick_sims/SIM_cannon_analytic/models/cannon/include/cannon_analytic.h
