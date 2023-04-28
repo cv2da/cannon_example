@@ -11,7 +11,7 @@ int cannon_default_data( CANNON* C ) {
 
     C->acc[0] = 0.0;
     C->acc[1] = -9.81;
-    C->init_angle = 3.14/6; // M_PI/6 ; #Fix here
+    C->init_angle = M_PI/6 ;
     C->init_speed  = 50.0 ;
     C->pos0[0] = 0.0 ;
     C->pos0[1] = 0.0 ;
