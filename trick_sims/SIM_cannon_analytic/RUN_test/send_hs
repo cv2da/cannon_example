@@ -1,8 +1,11 @@
-|L   0|2023/04/28,18:28:07|vasquez| |T 0|5.200000| 
+|L   1|2023/04/28,20:51:38|vasquez| |T 0|0.000000| Freeze ON. Simulation time holding at 0.000000 seconds.
+|L   1|2023/04/28,20:54:00|vasquez| |T 0|0.000000| Freeze OFF.
+|L   0|2023/04/28,20:54:05|vasquez| |T 0|5.200000| 
      REALTIME SHUTDOWN STATS:
-            ACTUAL INIT TIME:        0.249
-         ACTUAL ELAPSED TIME:        0.256
-|L   0|2023/04/28,18:28:07|vasquez| |T 0|5.200000| 
+     REALTIME TOTAL OVERRUNS:            0
+            ACTUAL INIT TIME:        0.164
+         ACTUAL ELAPSED TIME:      147.371
+|L   0|2023/04/28,20:54:05|vasquez| |T 0|5.200000| 
 SIMULATION TERMINATED IN
   PROCESS: 0
   ROUTINE: Executive_loop_single_thread.cpp:98
@@ -11,6 +14,6 @@ SIMULATION TERMINATED IN
        SIMULATION START TIME:        0.000
         SIMULATION STOP TIME:        5.200
      SIMULATION ELAPSED TIME:        5.200
-        ACTUAL CPU TIME USED:        0.242
-       SIMULATION / CPU TIME:       21.502
-     INITIALIZATION CPU TIME:        0.234
+        ACTUAL CPU TIME USED:        0.231
+       SIMULATION / CPU TIME:       22.472
+     INITIALIZATION CPU TIME:        0.144
